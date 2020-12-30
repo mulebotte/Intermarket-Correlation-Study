@@ -9,6 +9,8 @@ There are three files available in this repository that were used for the projec
 
 To run the code, you must install the yfinance module for python, pandas, and statsmodels.
 
-'Study-Data.ipynb' is a program that scrapes yields from the FRED website and asset prices from Yahoo Finance. It creates the necessary CSV files for data analysis
+'Study-Data.ipynb' is a program that scrapes yields from the FRED website and asset prices from Yahoo Finance. It creates the necessary CSV files for data analysis.
+
 'Data-Analysis.ipynb' is a program that runs OLS regressions and rolling correlations for key relationships.
+
 'Historical-Analysis' uses historical data since 1985 to previous occurences of the trends found in 'Data-Analysis'. 
